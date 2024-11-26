@@ -18,6 +18,9 @@
 		D06994432C1708270092377C /* step-up.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D069943E2C1708270092377C /* step-up.mp4 */; };
 		D06994442C1708270092377C /* sun-salute.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D069943F2C1708270092377C /* sun-salute.mp4 */; };
 		D092BC382CF585C600471A29 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D092BC372CF585C600471A29 /* HeaderView.swift */; };
+		D092BC3E2CF58DB500471A29 /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = D092BC3D2CF58DB500471A29 /* Exercise.swift */; };
+		D092BC412CF5907300471A29 /* ImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D092BC402CF5907300471A29 /* ImageExtension.swift */; };
+		D092BC422CF5907300471A29 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D092BC3F2CF5907300471A29 /* DateExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +36,9 @@
 		D069943E2C1708270092377C /* step-up.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "step-up.mp4"; sourceTree = "<group>"; };
 		D069943F2C1708270092377C /* sun-salute.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sun-salute.mp4"; sourceTree = "<group>"; };
 		D092BC372CF585C600471A29 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		D092BC3D2CF58DB500471A29 /* Exercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise.swift; sourceTree = "<group>"; };
+		D092BC3F2CF5907300471A29 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
+		D092BC402CF5907300471A29 /* ImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +76,9 @@
 				D03B8B822C14E7DF00E6393B /* Assets.xcassets */,
 				D06994402C1708270092377C /* Videos */,
 				D03B8B842C14E7DF00E6393B /* Preview Content */,
+				D092BC3D2CF58DB500471A29 /* Exercise.swift */,
+				D092BC3F2CF5907300471A29 /* DateExtension.swift */,
+				D092BC402CF5907300471A29 /* ImageExtension.swift */,
 			);
 			path = HIITFIT;
 			sourceTree = "<group>";
@@ -181,8 +190,11 @@
 				D069943A2C1649B20092377C /* ExerciseView.swift in Sources */,
 				D03B8B812C14E7DE00E6393B /* ContentView.swift in Sources */,
 				D06994382C1649AB0092377C /* WelcomeView.swift in Sources */,
+				D092BC412CF5907300471A29 /* ImageExtension.swift in Sources */,
+				D092BC422CF5907300471A29 /* DateExtension.swift in Sources */,
 				D03B8B7F2C14E7DE00E6393B /* HIITFITApp.swift in Sources */,
 				D092BC382CF585C600471A29 /* HeaderView.swift in Sources */,
+				D092BC3E2CF58DB500471A29 /* Exercise.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
