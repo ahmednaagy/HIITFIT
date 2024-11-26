@@ -17,6 +17,7 @@
 		D06994422C1708270092377C /* squat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D069943D2C1708270092377C /* squat.mp4 */; };
 		D06994432C1708270092377C /* step-up.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D069943E2C1708270092377C /* step-up.mp4 */; };
 		D06994442C1708270092377C /* sun-salute.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D069943F2C1708270092377C /* sun-salute.mp4 */; };
+		D092BC382CF585C600471A29 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D092BC372CF585C600471A29 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		D069943D2C1708270092377C /* squat.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = squat.mp4; sourceTree = "<group>"; };
 		D069943E2C1708270092377C /* step-up.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "step-up.mp4"; sourceTree = "<group>"; };
 		D069943F2C1708270092377C /* sun-salute.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sun-salute.mp4"; sourceTree = "<group>"; };
+		D092BC372CF585C600471A29 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				D03B8B802C14E7DE00E6393B /* ContentView.swift */,
 				D06994372C1649AA0092377C /* WelcomeView.swift */,
 				D06994392C1649B20092377C /* ExerciseView.swift */,
+				D092BC372CF585C600471A29 /* HeaderView.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				D03B8B812C14E7DE00E6393B /* ContentView.swift in Sources */,
 				D06994382C1649AB0092377C /* WelcomeView.swift in Sources */,
 				D03B8B7F2C14E7DE00E6393B /* HIITFITApp.swift in Sources */,
+				D092BC382CF585C600471A29 /* HeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
